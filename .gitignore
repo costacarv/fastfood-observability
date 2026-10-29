@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Kubernetes secrets (contém credenciais)
+k8s/infra/grafana-cloud-secret.yaml
